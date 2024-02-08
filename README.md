@@ -4,7 +4,7 @@
 </p>
   Bem-vindo ao Olucaro, Senhor dos Segredos, um chat interativo de perguntas e respostas que tem como objetivo revelar os segredos que você deseja descobrir. Este projeto oferece uma experiência interativa onde os jogadores podem fazer perguntas e receber respostas misteriosas e intrigantes.
 
-  O verdadeiro repositório do projeto é privado. Aqui temos um vislumbre do que o projeto se trata, guias para usuários e documentação.
+  >>>>>>O verdadeiro repositório do projeto é privado. Aqui temos um vislumbre do que o projeto se trata, guias para usuários e documentação.<<<<<<
 
 ## Visão Geral
 
