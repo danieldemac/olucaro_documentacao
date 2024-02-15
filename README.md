@@ -1,4 +1,4 @@
-<h1 align="center"><img width="25" height="25" src="https://img.icons8.com/water-color/50/millenium-eye.png" alt="millenium-eye"/> Olucaro, Senhor dos Segredos <img width="25" height="25" src="https://img.icons8.com/water-color/50/millenium-eye.png" alt="millenium-eye"/></h1>
+<h1 align="center"><img width="25" height="25" src="https://img.icons8.com/water-color/50/millenium-eye.png" alt="millenium-eye"/> O Enigma do Olucaro<img width="25" height="25" src="https://img.icons8.com/water-color/50/millenium-eye.png" alt="millenium-eye"/></h1>
 <p align="center">
   <img width="300" height="300" src="olucaro/images/olucaro.png" alt="Logo do site">
 </p>
