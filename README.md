@@ -30,19 +30,6 @@ Olucaro é um chatbot projetado principalmente para uso em computadores, acessí
 1. Abra o seu navegador da web no seu computador ou celular.
 2. Acesse pelo link: [https://www.olucaro.com.br](https://www.olucaro.com.br)
 
-## Estrutura do Projeto
-
-O projeto "Olucaro, Senhor dos Segredos" é composto pelos seguintes arquivos e diretórios:
-
-- `olucaro/`: Esta pasta contém os arquivos do projeto.
-- `olucaro/css/`: Arquivos CSS para a estilização do projeto.
-- `olucaro/images/`: Imagens relacionadas ao projeto.
-- `olucaro/js/`: Arquivos JavaScript necessários para o funcionamento do projeto.
-- `olucaro/audio/`: Audios do projeto.
-- `olucaro/olucaro.html`: Html do site que tem as interações do projeto.
-- `LICENSE`: Licensa do projeto = Apache License Version 2.0, January 2004.
-- `README.md`: Esse é o arquivo que você está lendo.
-- `index.html`: O arquivo HTML principal que inicia o projeto no seu navegador.
 
 ## Licença
 
